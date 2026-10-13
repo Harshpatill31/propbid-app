@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57731112069",
+    "project_id": "propbid-ce8de",
+    "storage_bucket": "propbid-ce8de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57731112069:android:aaf7edaf32e58a746f5dec",
+        "android_client_info": {
+          "package_name": "com.example.real_estate_bidding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMo0luXp7HnJdb6uS5SovlqYOfFhY3uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
